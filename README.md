@@ -1,6 +1,6 @@
 # Vuex Todo Manager
 
-> This project is part of the Vuex Crash Course on YouTube
+> This is a vue, vuex application with json api
 
 ## Project setup
 
